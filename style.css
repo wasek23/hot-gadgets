@@ -49,6 +49,7 @@ section{
 .btn:active{
     color: #fff;
     outline: none;
+    transform: translateY(-5px);
 }
 
 .myBtn{
@@ -204,6 +205,14 @@ img{
 }
 .card:hover{
     box-shadow: 0 5px 15px 3px #ddd;
+}
+
+.card img{
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+.card:hover img{
+    transform: scale(1.15);
 }
 
 .card .card-footer{
