@@ -1,4 +1,4 @@
-# Hot Gadgets
+# HOT GADGETS
 #### Hot Gadgets is a Bootstrap eCommerce Web Template.
 
 <br />
